@@ -8,6 +8,9 @@
   },
   "author": "",
   "license": "ISC",
+  "scripts": {
+    "start": "npm app.js"
+},
   "engines": {
     "node": "14.17.6"
   },
